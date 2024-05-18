@@ -1,1 +1,22 @@
+# Ignore specific file
+path/to/file.txt
 
+# Ignore entire directory
+path/to/directory/
+
+# Ignore files with a certain extension
+*.log
+
+# Ignore all files in a directory
+directory/*
+
+# Ignore files matching a pattern
+*.zip
+
+# Ignore compiled files
+*.exe
+*.dll
+
+# Ignore directories
+build/
+node_modules/
